@@ -1,3 +1,5 @@
+package Java8;
+
 public class DefaultStatic {
 
         public static void main(String args[]) {
